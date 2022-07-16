@@ -1,10 +1,11 @@
 # 02-2. TypeChange
 
+범위의 크기 순  
+byte < short < int < float < double
+
 <h3>자동 타입 변환(promotion)</h3>
 
 허용 범위가 작은 타입이 큰 타입으로 저장될 때 발생  
-범위의 크기 순  
-byte < short < int < float < double
 
 ![화면 캡처 2022-07-16 191920](https://user-images.githubusercontent.com/102217688/179350837-78223199-c658-4504-bb73-e314c119fb05.png)
 
