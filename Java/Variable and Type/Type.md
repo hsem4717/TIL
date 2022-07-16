@@ -1,6 +1,7 @@
 # 02-2. Type
 
-<h3>타입</h3>
+<h3>타입의 종류</h3>
+
 정수 타입
 
 ![화면 캡처 2022-07-16 190536](https://user-images.githubusercontent.com/102217688/179350359-2af10ab3-0703-4c48-b015-8723a8113af7.png)
