@@ -1,4 +1,4 @@
-# 02-2. TypeChange
+# 02-3. TypeChange
 
 범위의 크기 순  
 byte < short < int < float < double
