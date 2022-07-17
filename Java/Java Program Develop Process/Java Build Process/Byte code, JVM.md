@@ -1,4 +1,4 @@
-# 01-2. Java Build Process
+# 01-2-1. Java Build Process
 
 <h3>바이트 코드 파일(Byte code file)</h3>
 
