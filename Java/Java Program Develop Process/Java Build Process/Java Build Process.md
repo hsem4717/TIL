@@ -1,4 +1,4 @@
-# 01-2. Java Build Process
+# 01-2-2. Java Build Process
 
 1 `.java` 텍스트 파일 생성후 코드 작성   
 2. 만들어진 소스파일을 `.javac`이 컴파일   
