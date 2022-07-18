@@ -4,7 +4,8 @@
 
 클래스의 선언
 
-![Untitled](https://ucarecdn.com/3550a7cc-b226-4964-b830-c4ed38c188e2/20220716163542.png)
+![Calcuclass](https://user-images.githubusercontent.com/102217688/179443342-ee622298-c572-4878-af59-eb0d6205e7d1.png)
+
 
  `public class Hello`:클래스 선언부   
  `public class`:공개클래스   
