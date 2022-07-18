@@ -20,3 +20,6 @@
 
 `메소드`
 -객체의 동작에 해당하는 실행 블록
+
+![Calcu](https://user-images.githubusercontent.com/102217688/179443071-60039bef-d80d-4d28-bf45-1ccceb066192.png)
+
