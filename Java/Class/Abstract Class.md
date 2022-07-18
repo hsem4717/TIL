@@ -9,4 +9,7 @@
 
 추상 클래스의 선언
 
-[abstract Class.md](https://github.com/hsem4717/TIL/files/9131412/abstract.Class.md)
+
+![abstract](https://user-images.githubusercontent.com/102217688/179498754-e1d7e9ae-771b-451a-bdc8-7654ceef7b3f.png)
+
+
