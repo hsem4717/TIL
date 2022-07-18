@@ -1,4 +1,4 @@
-# 02-3-2. TypeChange
+  # 02-3-2. TypeChange
 
 <h3>자동 타입 변환(promotion)</h3>
 
