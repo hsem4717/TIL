@@ -2,6 +2,7 @@
 - URI(자원), HTTP METHOD(행위), 표현으로 구성
 
 <h3>HTTP METHOD</h3>
+아래의 Method를 가지고 CRUD 할수 있다
 
 1. GET <br>
 자원을 받아올때 사용
