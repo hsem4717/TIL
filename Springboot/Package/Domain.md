@@ -1,4 +1,4 @@
-#Domain
+# Domain
 
 - entity 클래스
 - 실제 db의 테이블과 직접적으로 mapping 되는 클래스
