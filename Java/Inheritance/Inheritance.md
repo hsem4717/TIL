@@ -1,6 +1,4 @@
-# 06-1. Inheritance
-
-<h3>상속</h3>
+# 06-1. 상속
 
 ![extends](https://user-images.githubusercontent.com/102217688/179448997-bae952d4-075f-4bf5-bad8-74aa61a94939.png)
 
