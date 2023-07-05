@@ -1,0 +1,4 @@
+# Model View Controller
+
+- Model, View, Controller의 약자
+- 하나의 애플리케이션, 프로젝트를 구성할 때 그 구성요소를 세가지의 역할로 구분한 패턴 
